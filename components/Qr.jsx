@@ -9,7 +9,7 @@ const Qr = () => {
         <img
           src="hero.jpg" // <-- replace with your image
           alt="Heritage Banner"
-          className="w-full h-64 md:h-96 object-cover"
+          className="w-full mt-18 h-64 md:h-76 object-cover px-2 rounded-3xl"
         />
       </div>
 
