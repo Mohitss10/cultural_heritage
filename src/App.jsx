@@ -1,7 +1,7 @@
 import { Route, Routes, useNavigate } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import Taj_mahal from "../components/Taj_mahal";
-import Ram_mandir from "../components/ram_mandir";
+import Ram_mandir from "../components/Ram_mandir";
 import Vishvnath from "../components/Vishvnath";
 import Mahanavami from "../components/Mahanavami";
 import Harihara from "../components/Harihara";
