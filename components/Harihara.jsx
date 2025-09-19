@@ -9,7 +9,7 @@ const Harihara = () => {
           className="text-center text-2xl md:text-3xl font-bold mb-6 text-[#1b130d]"
           style={{ fontFamily: '"Noto Serif", serif' }}
         >
-          Harihara Caves
+          Harihara Carvings 
         </h2>
 
         {/* Grid Container with background + hover shadow */}
@@ -34,10 +34,10 @@ const Harihara = () => {
                 className="text-xl md:text-2xl font-bold mb-3 text-[#1b130d]"
                 style={{ fontFamily: '"Noto Serif", serif' }}
               >
-                About the Harihara Caves
+                About the Harihara Carvings
               </h3>
               <p className="text-sm md:text-base text-gray-700 leading-relaxed">
-                The Harihara Caves, located near Halebidu, Karnataka, India, are
+                The Harihara Carvings, located near Halebidu, Karnataka, India, are
                 significant historical monuments dating back to the Hoysala
                 period. These rock-cut caves are dedicated to Lord Shiva and
                 Lord Vishnu, reflecting the harmonious blend of Shaivism and
