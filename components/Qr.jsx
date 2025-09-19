@@ -30,8 +30,8 @@ const Qr = () => {
   <h2 className="text-3xl font-bold mb-4 text-gray-900">
     AR Based Cultural Heritage Platform
   </h2>
-  <p className="text-lg text-gray-700 mb-4">
-    This project is an interactive <strong>Augmented Reality</strong> (AR) 
+  <p className="text-md text-gray-700 mb-4">
+    This project is an interactive Augmented Reality (AR) 
     application that brings India’s rich cultural heritage to life. 
     By scanning the QR code, you can download and experience our 
     immersive mobile app that showcases monuments, history, and 

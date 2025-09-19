@@ -21,7 +21,7 @@ const Harihara = () => {
   <img
     src="/harihara.jpg"
     alt="AR Marker for Harihara"
-    className="p-2 w-64 h-64 md:w-80 md:h-80 object-contain"
+    className="p-2 w-64 h-64 md:w-80 md:h-80 object-contain "
   />
   <p className="text-sm mt-2 text-gray-700 font-medium flex items-center gap-1">
     Scan this marker or

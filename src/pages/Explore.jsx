@@ -19,7 +19,7 @@ const Explore = () => {
         {/* Karnataka */}
         <div
           onClick={() => navigate("/karnataka")}
-          className="flex items-center justify-center text-2xl font-semibold col-span-1 sm:col-span-2 row-span-1 sm:row-span-2 rounded-xl shadow-lg bg-white cursor-pointer hover:bg-gray-100 transition"
+          className="flex items-center justify-center text-2xl font-semibold col-span-1 sm:col-span-2 row-span-1 sm:row-span-2 rounded-xl shadow-lg bg-white cursor-pointer hover:bg-gray-100 transition p-2"
         >
           Karnataka
         </div>
